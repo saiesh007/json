@@ -1,0 +1,407 @@
+{
+	"Response": {
+		"Location_list": [{
+			"city_id": "2",
+			"city_name": "Panjim",
+			"province_id": "1",
+			"province_name": "Goa",
+			"con_id": "1",
+			"country_name": "India",
+			"currency": "Rs"
+		}],
+		"Province_list": [{
+			"province_id": "1",
+			"province_name": "Goa"
+		}],
+		"Category_list": [{
+			"category_id": "1",
+			"category_name": "Auto care",
+			"category_name_spanish": "Auto care",
+			"position_id": "2",
+			"display_pic_50": "Auto Care.png"
+		}, {
+			"category_id": "4",
+			"category_name": "Baby Care",
+			"category_name_spanish": "Baby Care",
+			"position_id": "5",
+			"display_pic_50": "Baby Care.png"
+		}, {
+			"category_id": "6",
+			"category_name": "Courier",
+			"category_name_spanish": "Courier",
+			"position_id": "6",
+			"display_pic_50": "Courier.png"
+		}, {
+			"category_id": "7",
+			"category_name": "Education",
+			"category_name_spanish": "Education",
+			"position_id": "1",
+			"display_pic_50": "Eduction.png"
+		}, {
+			"category_id": "16",
+			"category_name": "Gifts and Decorations",
+			"category_name_spanish": "test",
+			"position_id": "12",
+			"display_pic_50": "\u2014Pngtree\u2014green wall cartoon store_2141705.png"
+		}, {
+			"category_id": "14",
+			"category_name": "Home Maintenance Ser",
+			"category_name_spanish": "test",
+			"position_id": "11",
+			"display_pic_50": "download (1).png"
+		}, {
+			"category_id": "8",
+			"category_name": "Housekeeping",
+			"category_name_spanish": "Housekeeping",
+			"position_id": "8",
+			"display_pic_50": "Housekeeping.png"
+		}, {
+			"category_id": "2",
+			"category_name": "Medical",
+			"category_name_spanish": "Medical",
+			"position_id": "3",
+			"display_pic_50": "Medical.png"
+		}, {
+			"category_id": "9",
+			"category_name": "Personal Care",
+			"category_name_spanish": "Personal Care",
+			"position_id": "9",
+			"display_pic_50": "Personal Care.png"
+		}, {
+			"category_id": "5",
+			"category_name": "Repairs",
+			"category_name_spanish": "Repairs",
+			"position_id": "7",
+			"display_pic_50": "Repairs.png"
+		}, {
+			"category_id": "10",
+			"category_name": "Security Services",
+			"category_name_spanish": "test",
+			"position_id": "10",
+			"display_pic_50": "Security services.png"
+		}, {
+			"category_id": "3",
+			"category_name": "Shops",
+			"category_name_spanish": "Shops",
+			"position_id": "4",
+			"display_pic_50": "Shops.png"
+		}],
+		"sub_category_list": [{
+			"sub_category_id": "15",
+			"category_id": "5",
+			"sub_category_name": "AC",
+			"sub_category_name_spanish": "AC"
+		}, {
+			"sub_category_id": "12",
+			"category_id": "4",
+			"sub_category_name": "Baby Food",
+			"sub_category_name_spanish": "Baby Food"
+		}, {
+			"sub_category_id": "13",
+			"category_id": "4",
+			"sub_category_name": "Baby Sitters",
+			"sub_category_name_spanish": "Baby Sitters"
+		}, {
+			"sub_category_id": "14",
+			"category_id": "4",
+			"sub_category_name": "Baby Sleep",
+			"sub_category_name_spanish": "Baby Sleep"
+		}, {
+			"sub_category_id": "39",
+			"category_id": "16",
+			"sub_category_name": "Birthday Gifts",
+			"sub_category_name_spanish": "test"
+		}, {
+			"sub_category_id": "18",
+			"category_id": "6",
+			"sub_category_name": "Blue Dart",
+			"sub_category_name_spanish": "Blue Dart"
+		}, {
+			"sub_category_id": "2",
+			"category_id": "1",
+			"sub_category_name": "Car Accessories",
+			"sub_category_name_spanish": "Car Accessories"
+		}, {
+			"sub_category_id": "1",
+			"category_id": "1",
+			"sub_category_name": "Car Repair",
+			"sub_category_name_spanish": "Car Repair"
+		}, {
+			"sub_category_id": "35",
+			"category_id": "14",
+			"sub_category_name": "Carpenter",
+			"sub_category_name_spanish": "test"
+		}, {
+			"sub_category_id": "11",
+			"category_id": "2",
+			"sub_category_name": "Chemist",
+			"sub_category_name_spanish": "Chemist"
+		}, {
+			"sub_category_id": "21",
+			"category_id": "7",
+			"sub_category_name": "Coaching classes",
+			"sub_category_name_spanish": "Coaching classes"
+		}, {
+			"sub_category_id": "16",
+			"category_id": "5",
+			"sub_category_name": "Computers",
+			"sub_category_name_spanish": "Computers"
+		}, {
+			"sub_category_id": "23",
+			"category_id": "8",
+			"sub_category_name": "Cook",
+			"sub_category_name_spanish": "Cook"
+		}, {
+			"sub_category_id": "38",
+			"category_id": "16",
+			"sub_category_name": "Decorative items",
+			"sub_category_name_spanish": "test"
+		}, {
+			"sub_category_id": "5",
+			"category_id": "2",
+			"sub_category_name": "Dentist",
+			"sub_category_name_spanish": "Dentist"
+		}, {
+			"sub_category_id": "4",
+			"category_id": "2",
+			"sub_category_name": "Doctor",
+			"sub_category_name_spanish": "Doctor"
+		}, {
+			"sub_category_id": "25",
+			"category_id": "8",
+			"sub_category_name": "Driver",
+			"sub_category_name_spanish": "Driver"
+		}, {
+			"sub_category_id": "19",
+			"category_id": "6",
+			"sub_category_name": "DTDC",
+			"sub_category_name_spanish": "DTDC"
+		}, {
+			"sub_category_id": "8",
+			"category_id": "3",
+			"sub_category_name": "Electrical",
+			"sub_category_name_spanish": "Electrical"
+		}, {
+			"sub_category_id": "34",
+			"category_id": "14",
+			"sub_category_name": "Electrician",
+			"sub_category_name_spanish": "test"
+		}, {
+			"sub_category_id": "9",
+			"category_id": "3",
+			"sub_category_name": "Electronics",
+			"sub_category_name_spanish": "Electronics"
+		}, {
+			"sub_category_id": "40",
+			"category_id": "16",
+			"sub_category_name": "Gift for Anniversary",
+			"sub_category_name_spanish": "test"
+		}, {
+			"sub_category_id": "7",
+			"category_id": "3",
+			"sub_category_name": "Grocery",
+			"sub_category_name_spanish": "Grocery"
+		}, {
+			"sub_category_id": "30",
+			"category_id": "10",
+			"sub_category_name": "international",
+			"sub_category_name_spanish": "test"
+		}, {
+			"sub_category_id": "28",
+			"category_id": "10",
+			"sub_category_name": "Local",
+			"sub_category_name_spanish": "test"
+		}, {
+			"sub_category_id": "24",
+			"category_id": "8",
+			"sub_category_name": "Maid",
+			"sub_category_name_spanish": "Maid"
+		}, {
+			"sub_category_id": "22",
+			"category_id": "7",
+			"sub_category_name": "Music classes",
+			"sub_category_name_spanish": "Music classes"
+		}, {
+			"sub_category_id": "29",
+			"category_id": "10",
+			"sub_category_name": "National",
+			"sub_category_name_spanish": "test"
+		}, {
+			"sub_category_id": "26",
+			"category_id": "9",
+			"sub_category_name": "Parlours",
+			"sub_category_name_spanish": "Parlours"
+		}, {
+			"sub_category_id": "33",
+			"category_id": "14",
+			"sub_category_name": "Plumber",
+			"sub_category_name_spanish": "test"
+		}, {
+			"sub_category_id": "6",
+			"category_id": "3",
+			"sub_category_name": "Restaurant",
+			"sub_category_name_spanish": "Restaurant"
+		}, {
+			"sub_category_id": "37",
+			"category_id": "15",
+			"sub_category_name": "Restaurant",
+			"sub_category_name_spanish": "test"
+		}, {
+			"sub_category_id": "27",
+			"category_id": "9",
+			"sub_category_name": "Salons",
+			"sub_category_name_spanish": "Salons"
+		}, {
+			"sub_category_id": "3",
+			"category_id": "1",
+			"sub_category_name": "Scooter Repair",
+			"sub_category_name_spanish": "Scooter Repair"
+		}, {
+			"sub_category_id": "17",
+			"category_id": "5",
+			"sub_category_name": "TV",
+			"sub_category_name_spanish": "TV"
+		}],
+		"deleted_category": ["15", "11", "12", "13", "15"],
+		"deleted_sub_category": ["10", "32", "20", "41", "42", "31", "36"],
+		"Latest_Ads": [{
+			"city_name": "Ponda",
+			"ad_id": "44",
+			"encrypted_ad_id": "NDQ=",
+			"ad_type": "1",
+			"product_name": "Test new",
+			"description": "Scgssgsgvdvdd",
+			"category_id": "8",
+			"sub_category_id": "25",
+			"type": "1",
+			"seller_type": "Test Seller",
+			"price": "0",
+			"username": "Avin",
+			"email": "avinkumar.pednekar@genora.co.uk",
+			"phone_number": "9765852626",
+			"created_date": "2021-01-08",
+			"image1_50": "?",
+			"image1": "default1.jpg?",
+			"image2": "default1.jpg?",
+			"image3": "default1.jpg?",
+			"image4": "default1.jpg?",
+			"image5": "default1.jpg?",
+			"video": "no_video"
+		}, {
+			"city_name": "Ponda",
+			"ad_id": "50",
+			"encrypted_ad_id": "NTA=",
+			"ad_type": "1",
+			"product_name": "Abc",
+			"description": "No description",
+			"category_id": "7",
+			"sub_category_id": "21",
+			"type": "1",
+			"seller_type": "Test Seller",
+			"price": "0",
+			"username": "Vv",
+			"email": "vishal.gaonkar@genora.co.in",
+			"phone_number": "9850372836",
+			"created_date": "2021-02-04",
+			"image1_50": "?",
+			"image1": "default1.jpg?",
+			"image2": "default1.jpg?",
+			"image3": "default1.jpg?",
+			"image4": "default1.jpg?",
+			"image5": "default1.jpg?",
+			"video": "no_video"
+		}, {
+			"city_name": "Ponda",
+			"ad_id": "49",
+			"encrypted_ad_id": "NDk=",
+			"ad_type": "1",
+			"product_name": "Monalisa cookisa",
+			"description": "Multi cuisine cook mo na li sa bai",
+			"category_id": "8",
+			"sub_category_id": "23",
+			"type": "1",
+			"seller_type": "Test Seller",
+			"price": "0",
+			"username": "Swiggy",
+			"email": "testing@genora.co.uk",
+			"phone_number": "7798409659",
+			"created_date": "2021-02-03",
+			"image1_50": "img_49_1_50.jpeg?",
+			"image1": "img_49_1_300.jpeg?",
+			"image2": "default1.jpg?",
+			"image3": "default1.jpg?",
+			"image4": "default1.jpg?",
+			"image5": "default1.jpg?",
+			"video": "no_video"
+		}, {
+			"city_name": "Ponda",
+			"ad_id": "48",
+			"encrypted_ad_id": "NDg=",
+			"ad_type": "1",
+			"product_name": "Shaanta Bai",
+			"description": "Best maid for you.\nShe is Rupachi Khaan, Disati Chhan..\nLakhat Chhan, Najarecha Baan,\nTirkamaan, Mariti Chakra Tujha G Nakhara,",
+			"category_id": "8",
+			"sub_category_id": "24",
+			"type": "1",
+			"seller_type": "Test Seller",
+			"price": "0",
+			"username": "Swiggy",
+			"email": "testing@genora.co.uk",
+			"phone_number": "1111111111",
+			"created_date": "2021-02-03",
+			"image1_50": "img_48_1_50.jpeg?",
+			"image1": "img_48_1_300.jpeg?",
+			"image2": "default1.jpg?",
+			"image3": "default1.jpg?",
+			"image4": "default1.jpg?",
+			"image5": "default1.jpg?",
+			"video": "no_video"
+		}, {
+			"city_name": "Ponda",
+			"ad_id": "47",
+			"encrypted_ad_id": "NDc=",
+			"ad_type": "1",
+			"product_name": "Racer service center",
+			"description": "All types vehicle services",
+			"category_id": "1",
+			"sub_category_id": "1",
+			"type": "1",
+			"seller_type": "Test Seller",
+			"price": "0",
+			"username": "Swiggy",
+			"email": "testing@genora.co.uk",
+			"phone_number": "1234567890",
+			"created_date": "2021-02-03",
+			"image1_50": "?",
+			"image1": "default1.jpg?",
+			"image2": "default1.jpg?",
+			"image3": "default1.jpg?",
+			"image4": "default1.jpg?",
+			"image5": "default1.jpg?",
+			"video": "no_video"
+		}],
+		"banner_array": [{
+			"img": "Banner 1.png",
+			"id": "1",
+			"link": "http:\/\/www.google.com"
+		}, {
+			"img": "Banner 2.png",
+			"id": "2",
+			"link": "http:\/\/www.google.com"
+		}, {
+			"img": "Banner 3.png",
+			"id": "3",
+			"link": "http:\/\/www.google.com"
+		}, {
+			"img": "Banner 4.png",
+			"id": "4",
+			"link": "http:\/\/www.google.com"
+		}, {
+			"img": "Banner 5.png",
+			"id": "5",
+			"link": "http:\/\/https:\/\/smallbusiness.chron.com\/create-dummy-webpage-51199.html"
+		}],
+		"status": "1",
+		"timestamp": 1614141550
+	}
+}
